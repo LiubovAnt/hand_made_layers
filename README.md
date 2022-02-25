@@ -1,2 +1,2 @@
 # hand_made_layers
-The first task of the course on neural networks from MIPT and Mail group
+Первое задание курса по нейронным сетям от Технотрека. Показывает понимание математики скрытых слоев. 
